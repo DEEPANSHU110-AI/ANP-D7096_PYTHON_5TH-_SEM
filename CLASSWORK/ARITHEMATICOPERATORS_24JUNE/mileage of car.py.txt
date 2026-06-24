@@ -1,0 +1,5 @@
+"""  Write a Python program to find the average mileage of a car. """
+
+distance_travelled = float(input("toal distance_travellled in kms "))
+fuel_consumed = float(input("total fuel_consumed in liters"))
+print ("mileage = ", distance_travelled/fuel_consumed)
